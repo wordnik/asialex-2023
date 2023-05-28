@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use materials from this repository, please cite it as below."
+authors:
+- family-names: "McKean"
+  given-names: "Erin"
+  orcid: "https://orcid.org/0000-0001-8475-8406"
+- family-names: "Fitzgerald"
+  given-names: "William"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "asialex-2023"
+version: 1.0.0
+doi: 10.5281/zenodo.7979385
+date-released: 2023-05-28
+url: "https://github.com/wordnik/asialex-2023"
